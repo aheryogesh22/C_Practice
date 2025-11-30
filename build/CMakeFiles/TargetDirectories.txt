@@ -1,0 +1,3 @@
+D:/C_Practise/build/CMakeFiles/Application.dir
+D:/C_Practise/build/CMakeFiles/edit_cache.dir
+D:/C_Practise/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/C_Practise/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Application.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\Application.dir\\src\\RingBuffer.c.obj -c D:\\C_Practise\\src\\RingBuffer.c",
+  "file": "D:/C_Practise/src/RingBuffer.c",
+  "output": "CMakeFiles/Application.dir/src/RingBuffer.c.obj"
+},
+{
+  "directory": "D:/C_Practise/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Application.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\Application.dir\\src\\main.c.obj -c D:\\C_Practise\\src\\main.c",
+  "file": "D:/C_Practise/src/main.c",
+  "output": "CMakeFiles/Application.dir/src/main.c.obj"
+}
+]
